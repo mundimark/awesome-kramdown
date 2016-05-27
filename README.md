@@ -37,7 +37,19 @@ _Made By_
 
 
 
-## kramdown parsers & extensions
+## kramdown Parsers & Extensions
+
+**kramdown-rfc2629** (gem: [kramdown-rfc2629](https://rubygems.org/gems/kramdown-rfc2629), github: [cabo/kramdown-rfc2629](https://github.com/cabo/kramdown-rfc2629)) by Carsten Bormann et al
+
+an RFC7749 (XML2RFC) generating backend for the kramdown markdown parser. Mostly useful for RFC writers.
+
+
+
+
+
+**kramdown Facebook Instant Article Converter** (github: [contentful-labs/kramdown-instant-article](https://github.com/contentful-labs/kramdown-instant-article)) by Rouven Weßling et al
+
+custom converter for kramdown to create markup optimized for Facebook Instant Articles.
 
 
 
