@@ -36,6 +36,11 @@ _Made By_
   - [Using Markdown with the kramdown Library and Tools](http://talks.gettalong.org/2016-02-vienna-html) - talk slides (in HTML) from the Vienna.html meetup in Feb 2016 by Thomas Leitner
 
 
+## kramdown Articles, Posts, etc.
+
+- [kramdown gem - turn easy-to-read and easy-to-write wiki-style plain text in markdown into hypertext](http://planetruby.github.io/gems/kramdown.html) - Planet Ruby Gem of the Week Series, Jan 2015
+- [Making Markdown more HTML5 with kramdown](http://kalifi.org/2015/04/html5-markdown-kramdown.html) by Kari Silvennoinen, April 2015
+
 
 ## kramdown Parsers & Extensions
 
