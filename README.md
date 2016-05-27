@@ -33,8 +33,26 @@ _Made By_
 
 Thomas Leitner (twitter: [_gettalong](https://twitter.com/_gettalong), github: [gettalong](https://github.com/gettalong))
 
-Q&A w/ Thomas Leitner
+[Q&A w/ Thomas Leitner](https://github.com/statictimes/questions/blob/master/01-thomas-leitner-kramdown.md) (by Static Times), Feb 2016
 
+
+
+## kramdown Live Online Editors
+
+**kramdown-service** (heroku app: [trykramdown](http://trykramdown.herokuapp.com), gem: [kramdown-service](https://rubygems.org/gems/kramdown-service), github: [writekit/kramdown-service](https://github.com/writekit/kramdown-service)
+
+simple online editor that lets you try the kramdown library converting markdown to HTML or LaTeX. 
+The online app also includes a HTTP JSON API service (e.g. /markdown) for conversion. 
+All is packed up in the kramdown-service gem for easy (re)use and as an extra bonus includes a binary, that is, 
+kramup, that starts up the online editor and service on your local machine (e.g. use `$ kramup`). 
+Supported conversion options/modes include:
+    
+ - HTML  - kramdown in GitHub-Flavored Markdown (GFM) Mode
+ - HTML  - kramdown in GitHub-Flavored Markdown (GFM) Mode w/ Syntax Highlighter (rouge)
+ - HTML  - kramdown in "Classic" Mode
+ - LaTeX - kramdown in GitHub-Flavored Markdown (GFM) Mode
+    
+All code public domain.
 
 
 
