@@ -7,7 +7,7 @@ A collection of awesome kramdown goodies for the markdown converter made with â™
 
 ## kramdown Headquarters (HQ)
 
-_the original - a fast markdown converter in Ruby without any C extensions_
+_a fast markdown converter in Ruby without any C extensions_
 
 - **kramdown** (web: [kramdown.gettalong.org](http://kramdown.gettalong.org), gem: [kramdown](https://rubygems.org/gems/kramdown))
   - [Quick Reference](http://kramdown.gettalong.org/quickref.html)
@@ -32,7 +32,7 @@ _Sources_
 _Made By_
 
 - **Thomas Leitner** (twitter: [_gettalong](https://twitter.com/_gettalong), github: [gettalong](https://github.com/gettalong))
-  - [Q&A w/ Thomas Leitner](https://github.com/statictimes/questions/blob/master/01-thomas-leitner-kramdown.md) (by Static Times), Feb 2016
+  - [Q&A w/ Thomas Leitner](https://github.com/statictimes/questions/blob/master/01-thomas-leitner-kramdown.md) by Static Times, Feb 2016
   - [Using Markdown with the kramdown Library and Tools](http://talks.gettalong.org/2016-02-vienna-html) - talk slides (in HTML) from the Vienna.html meetup in Feb 2016 by Thomas Leitner
 
 
