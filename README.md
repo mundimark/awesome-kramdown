@@ -9,7 +9,7 @@ A collection of awesome kramdown goodies for the markdown converter made with â™
 
 _the original - a fast markdown converter in Ruby without any C extensions_
 
-- **kramdown** (web: [kramdown.gettalong.org](http://kramdown.gettalong.org))
+- **kramdown** (web: [kramdown.gettalong.org](http://kramdown.gettalong.org), gem: [kramdown](https://rubygems.org/gems/kramdown))
   - [Quick Reference](http://kramdown.gettalong.org/quickref.html)
   - [Syntax](http://kramdown.gettalong.org/syntax.html)
   - [Documentation](http://kramdown.gettalong.org/documentation.html)
@@ -19,6 +19,21 @@ _the original - a fast markdown converter in Ruby without any C extensions_
       - [LaTeX](http://kramdown.gettalong.org/converter/latex.html)
   - [Official News & Updates](http://kramdown.gettalong.org/news.html) 
 
+
+_Support_
+
+- [Official Users Mailing List](http://groups.google.com/group/kramdown-users)
+
+
+_Sources_
+
+- **kramdown** (github: [gettalong/kramdown](https://github.com/gettalong/kramdown))
+
+_Made By_
+
+Thomas Leitner (twitter: [_gettalong](https://twitter.com/_gettalong), github: [gettalong](https://github.com/gettalong))
+
+Q&A w/ Thomas Leitner
 
 
 
