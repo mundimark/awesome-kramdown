@@ -43,8 +43,9 @@ _Made By_
 
 an RFC7749 (XML2RFC) generating backend for the kramdown markdown parser. Mostly useful for RFC writers.
 
+**govspeak** (gem: [govspeak](https://rubygems.org/gems/govspeak), github: [alphagov/govspeak](https://github.com/alphagov/govspeak))by Ben Griffiths, James Stewart et al 
 
-
+a set of extensions to markdown layered on top of the kramdown library for use in the UK Government Single Domain project
 
 
 **kramdown Facebook Instant Article Converter** (github: [contentful-labs/kramdown-instant-article](https://github.com/contentful-labs/kramdown-instant-article)) by Rouven Weßling et al
