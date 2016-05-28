@@ -83,8 +83,6 @@ Supported conversion options/modes include:
  - HTML  - kramdown in "Classic" Mode
  - LaTeX - kramdown in GitHub-Flavored Markdown (GFM) Mode
     
-All code public domain.
-
 
 **online-kramdown-sinatra**
 (heroku app: [kramdown](http://kramdown.herokuapp.com),
@@ -92,7 +90,8 @@ All code public domain.
 
 quick and dirty implementation of an online kramdown editor
 
-This fork (github: [arthurattwell/online-kramdown](https://github.com/arthurattwell/online-kramdown) by Arthur Attwell runs on Windows locally.
+This fork (github: [arthurattwell/online-kramdown](https://github.com/arthurattwell/online-kramdown)) 
+by Arthur Attwell runs on Windows locally.
 
 
 
