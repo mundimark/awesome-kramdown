@@ -67,7 +67,11 @@ custom converter for kramdown to create markup optimized for Facebook Instant Ar
 
 ## kramdown Live Online Editors
 
-**kramdown-service** (heroku app: [trykramdown](http://trykramdown.herokuapp.com), gem: [kramdown-service](https://rubygems.org/gems/kramdown-service), github: [writekit/kramdown-service](https://github.com/writekit/kramdown-service)
+### kramdown-service
+
+- heroku app: [trykramdown](http://trykramdown.herokuapp.com)
+- gem: [kramdown-service](https://rubygems.org/gems/kramdown-service)
+- github: [writekit/kramdown-service](https://github.com/writekit/kramdown-service)
 
 simple online editor that lets you try the kramdown library converting markdown to HTML or LaTeX. 
 The online app also includes a HTTP JSON API service (e.g. /markdown) for conversion. 
@@ -81,6 +85,15 @@ Supported conversion options/modes include:
  - LaTeX - kramdown in GitHub-Flavored Markdown (GFM) Mode
     
 All code public domain.
+
+### Online Kramdown Editor
+
+- heroku app: [kramdown.herokuapp.com](http://kramdown.herokuapp.com/)
+- github: [online-kramdown-sinatra](https://github.com/unindented/online-kramdown-sinatra)
+
+"Quick and dirty implementation of an online Kramdown editor."
+
+[This fork](https://github.com/arthurattwell/online-kramdown) runs locally on Windows.
 
 
 
