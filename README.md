@@ -9,7 +9,7 @@ A collection of awesome kramdown goodies for the markdown converter made with â™
 
 _a fast markdown converter in Ruby without any C extensions_
 
-- **kramdown** (web: [kramdown.gettalong.org](http://kramdown.gettalong.org), gem: [kramdown](https://rubygems.org/gems/kramdown))
+- **kramdown** (web: [kramdown.gettalong.org](http://kramdown.gettalong.org), gem: [kramdown](https://rubygems.org/gems/kramdown), rdoc: [kramdown](http://rubydoc.info/gems/kramdown))
   - [Quick Reference](http://kramdown.gettalong.org/quickref.html)
   - [Syntax](http://kramdown.gettalong.org/syntax.html)
   - [Documentation](http://kramdown.gettalong.org/documentation.html)
@@ -67,11 +67,10 @@ custom converter for kramdown to create markup optimized for Facebook Instant Ar
 
 ## kramdown Live Online Editors
 
-### kramdown-service
-
-- heroku app: [trykramdown](http://trykramdown.herokuapp.com)
-- gem: [kramdown-service](https://rubygems.org/gems/kramdown-service)
-- github: [writekit/kramdown-service](https://github.com/writekit/kramdown-service)
+**kramdown-service**
+(heroku app: [trykramdown](http://trykramdown.herokuapp.com)
+ gem: [kramdown-service](https://rubygems.org/gems/kramdown-service)
+ github: [writekit/kramdown-service](https://github.com/writekit/kramdown-service))
 
 simple online editor that lets you try the kramdown library converting markdown to HTML or LaTeX. 
 The online app also includes a HTTP JSON API service (e.g. /markdown) for conversion. 
@@ -86,14 +85,14 @@ Supported conversion options/modes include:
     
 All code public domain.
 
-### Online Kramdown Editor
 
-- heroku app: [kramdown.herokuapp.com](http://kramdown.herokuapp.com/)
-- github: [online-kramdown-sinatra](https://github.com/unindented/online-kramdown-sinatra)
+**online-kramdown-sinatra**
+(heroku app: [kramdown](http://kramdown.herokuapp.com)
+ github: [online-kramdown-sinatra](https://github.com/unindented/online-kramdown-sinatra)) by Daniel Perez Alvarez et al
 
-"Quick and dirty implementation of an online Kramdown editor."
+quick and dirty implementation of an online kramdown editor
 
-[This fork](https://github.com/arthurattwell/online-kramdown) runs locally on Windows.
+This fork (github: [arthurattwell/online-kramdown](https://github.com/arthurattwell/online-kramdown) by Arthur Attwell runs on Windows locally.
 
 
 
