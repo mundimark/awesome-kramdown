@@ -5,7 +5,9 @@ A collection of awesome kramdown goodies for the markdown converter made with â™
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
-## kramdown Headquarters (HQ)
+
+
+## Headquarters (HQ)
 
 _a fast markdown converter in Ruby without any C extensions_
 
@@ -36,13 +38,13 @@ _Made By_
   - [Using Markdown with the kramdown Library and Tools](http://talks.gettalong.org/2016-02-vienna-html) - talk slides (in HTML) from the Vienna.html meetup in Feb 2016 by Thomas Leitner
 
 
-## kramdown Articles, Posts, etc.
+## Articles, Posts, etc.
 
 - [kramdown gem - turn easy-to-read and easy-to-write wiki-style plain text in markdown into hypertext](http://planetruby.github.io/gems/kramdown.html) - Planet Ruby Gem of the Week Series, Jan 2015
 - [Making Markdown more HTML5 with kramdown](http://kalifi.org/2015/04/html5-markdown-kramdown.html) by Kari Silvennoinen, April 2015
 
 
-## kramdown Parsers & Extensions
+## Parsers & Extensions
 
 **kramdown-rfc2629** (gem: [kramdown-rfc2629](https://rubygems.org/gems/kramdown-rfc2629), github: [cabo/kramdown-rfc2629](https://github.com/cabo/kramdown-rfc2629)) by Carsten Bormann et al
 
@@ -63,13 +65,11 @@ custom converter for kramdown to create markup optimized for Facebook Instant Ar
 
 
 
-
-
-## kramdown Live Online Editors
+## Online (Live) Editors
 
 **kramdown-service**
-(heroku app: [trykramdown](http://trykramdown.herokuapp.com)
- gem: [kramdown-service](https://rubygems.org/gems/kramdown-service)
+(heroku app: [trykramdown](http://trykramdown.herokuapp.com),
+ gem: [kramdown-service](https://rubygems.org/gems/kramdown-service),
  github: [writekit/kramdown-service](https://github.com/writekit/kramdown-service))
 
 simple online editor that lets you try the kramdown library converting markdown to HTML or LaTeX. 
@@ -87,7 +87,7 @@ All code public domain.
 
 
 **online-kramdown-sinatra**
-(heroku app: [kramdown](http://kramdown.herokuapp.com)
+(heroku app: [kramdown](http://kramdown.herokuapp.com),
  github: [online-kramdown-sinatra](https://github.com/unindented/online-kramdown-sinatra)) by Daniel Perez Alvarez et al
 
 quick and dirty implementation of an online kramdown editor
