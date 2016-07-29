@@ -40,6 +40,7 @@ _Made By_
 
 ## Articles, Posts, etc.
 
+- [kramdown Tips & Tricks](https://about.gitlab.com/2016/07/19/markdown-kramdown-tips-and-tricks) by Marcia Ramos (GitLab), Jul 2016
 - [kramdown gem - turn easy-to-read and easy-to-write wiki-style plain text in markdown into hypertext](http://planetruby.github.io/gems/kramdown.html) - Planet Ruby Gem of the Week Series, Jan 2015
 - [Making Markdown more HTML5 with kramdown](http://kalifi.org/2015/04/html5-markdown-kramdown.html) by Kari Silvennoinen, April 2015
 
@@ -99,7 +100,7 @@ by Arthur Attwell runs on Windows locally.
 
 _modern hypertext markup in easy-to-read and easy-to-write ye olde plain vanilla text_
 
-See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdown](https://github.com/writekit/awesome-markdown)) ».
+See the **Awesome Markdown List @ Mundi Mark** (github: [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown)) ».
 
 
 
