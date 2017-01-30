@@ -64,6 +64,10 @@ a kramdown converter for converting markdown files into man pages
 
 custom converter for kramdown to create markup optimized for Facebook Instant Articles.
 
+**slackdown** (github: [houston/slackdown](https://github.com/houston/slackdown)) by Bob Lail et al 
+
+a kramdown converter for converting markdown text to slack's simplified markdown
+
 
 
 ## Online (Live) Editors
