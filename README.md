@@ -59,6 +59,9 @@ a set of extensions to markdown layered on top of the kramdown library for use i
 
 a kramdown converter for converting markdown files into man pages
 
+**kramdown-asciidoc** (github: [opendevise/kramdown-asciidoc](https://github.com/opendevise/kramdown-asciidoc)) by Dan Allen et al
+
+a kramdown converter for converting markdown files into asciidoc(or) (used for docbook)
 
 **kramdown Facebook Instant Article Converter** (github: [contentful-labs/kramdown-instant-article](https://github.com/contentful-labs/kramdown-instant-article)) by Rouven Weßling et al
 
