@@ -73,6 +73,11 @@ custom converter for kramdown to create markup optimized for Facebook Instant Ar
 a kramdown converter for converting markdown text to slack's simplified markdown
 
 
+**repositext** (github: [imazen/repositext](https://github.com/imazen/repositext)) by Jo Hund, Aaron J Walker, Nathanael Jones et al
+
+a customized parser/converter for repositext (repositext.org) - components for large-scale content collaboration & publishing work flows
+
+
 
 ## Online (Live) Editors
 
