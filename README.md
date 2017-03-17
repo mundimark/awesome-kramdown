@@ -78,6 +78,10 @@ a kramdown converter for converting markdown text to slack's simplified markdown
 a customized parser/converter for repositext (repositext.org) - components for large-scale content collaboration & publishing work flows
 
 
+**manuscript** (github: [aalgahmi/manuscript](https://github.com/aalgahmi/manuscript)) by Abdulmalek Al-Gahmi 
+
+incl. extented parsers for latex, html and epub
+
 
 ## Online (Live) Editors
 
