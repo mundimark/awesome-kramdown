@@ -18,8 +18,9 @@ _a fast markdown converter in Ruby without any C extensions_
     - Readers/Parsers (Input)
       - [Github Flavored Markdown (GFM)](http://kramdown.gettalong.org/parser/gfm.html)
     - Writers/Converters (Output)
-      - [LaTeX](http://kramdown.gettalong.org/converter/latex.html)
-  - [Official News & Updates](http://kramdown.gettalong.org/news.html) 
+      - [LaTeX](http://kramdown.gettalong.org/converter/latex.html) - TeX Typesetting
+      - [Man](https://kramdown.gettalong.org/converter/man.html) - Man(ual) Pages in groff format
+   - [Official News & Updates](http://kramdown.gettalong.org/news.html) 
 
 
 _Support_
