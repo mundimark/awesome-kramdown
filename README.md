@@ -1,15 +1,16 @@
-# Awesome kramdown
+# Awesome Kramdown
 
-A collection of awesome kramdown goodies for the markdown converter made with ♥  in Vienna ;-)
+A collection of awesome kramdown goodies for the converter for (structured) text with formatting markup in markdown conventions  
+made with ♥ in Vienna ;-)
 
-#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
+_Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
 
 ## Headquarters (HQ)
 
-_a fast markdown converter in Ruby without any C extensions_
+_a fast converter in Ruby without any C extensions for (structured) text with formatting markup in markdown_
 
 - **kramdown** (web: [kramdown.gettalong.org](http://kramdown.gettalong.org), gem: [kramdown](https://rubygems.org/gems/kramdown), rdoc: [kramdown](http://rubydoc.info/gems/kramdown))
   - [Quick Reference](http://kramdown.gettalong.org/quickref.html)
