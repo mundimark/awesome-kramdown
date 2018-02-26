@@ -56,6 +56,10 @@ an RFC7749 (XML2RFC) generating backend for the kramdown markdown parser. Mostly
 
 a set of extensions to markdown layered on top of the kramdown library for use in the UK Government Single Domain project
 
+**writedowm** (gem: [writedowm](https://rubygems.org/gems/writedown), github: [adamhollett/writedown](https://github.com/adamhollett/writedown)) by Adam Hollett et al  
+
+a set of extensions to markdown layered on top of the kramdown library, extensions include: asides, checkboxes, figures, image dimensions and more
+
 **kramdown-man** (gem: [kramdown-man](https://rubygems.org/gems/kramdown-man), github: [postmodern/kramdown-man](https://github.com/postmodern/kramdown-man)) by Hal Brodigan et al 
 
 a kramdown converter for converting markdown files into man pages
