@@ -2,7 +2,6 @@
 
 A collection of awesome kramdown goodies for the converter
 for (structured) text with formatting markup in markdown conventions
-made with ♥ in Vienna ;-)
 
 
 _Contributions welcome. Anything missing? Send in a pull request. Thanks._
