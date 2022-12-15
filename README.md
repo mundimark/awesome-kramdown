@@ -88,6 +88,11 @@ a customized parser/converter for repositext (repositext.org) - components for l
 incl. extented parsers for latex, html and epub
 
 
+**kramdown-syntax_tree_sitter** (gem: [kramdown-syntax_tree_sitter](https://rubygems.org/gems/kramdown-syntax_tree_sitter), github: [andrewtbiehl/kramdown-syntax_tree_sitter](https://github.com/andrewtbiehl/kramdown-syntax_tree_sitter)) by Andrew Biehl
+
+a Kramdown syntax highlighter plugin that leverages [Tree-sitter](https://tree-sitter.github.io/tree-sitter) to highlight code
+
+
 ## Online (Live) Editors
 
 **kramdown-service**
